@@ -17,3 +17,4 @@ Patch is a permission-based, encrypted file storage/transer, social media and me
 
 
 # 
+let's say that for audio you 
